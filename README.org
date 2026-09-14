@@ -1,0 +1,17 @@
+* A /humble/ port scanner
+
+** setup
+#+begin_src sh
+chmod +x script.pl
+#+end_src
+
+*** you're using arch? great!
+#+begin_src sh
+sudo pacman -S swi-prolog
+#+end_src
+
+** run
+#+begin_src sh
+./script.pl
+#+end_src
+
